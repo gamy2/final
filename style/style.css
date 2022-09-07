@@ -54,14 +54,14 @@ input[type=search]{
     height: 50px;
     border-radius: 50px;
 }
-h6{
+.h6{
     position: relative;
     top: -30px;
     left: 60px;
 }
-P{
+.pp{
     position: relative;
-    top: -35px;
+    top: -40px;
     left: 60px;
 }
 .a{
