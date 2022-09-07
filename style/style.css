@@ -54,12 +54,12 @@ input[type=search]{
     height: 50px;
     border-radius: 50px;
 }
-h6{
+.h6{
     position: relative;
     top: -30px;
     left: 60px;
 }
-P{
+.P{
     position: relative;
     top: -35px;
     left: 60px;
